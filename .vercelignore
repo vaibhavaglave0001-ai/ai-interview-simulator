@@ -1,0 +1,12 @@
+.git
+.venv
+__pycache__
+**/__pycache__
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite*
+tests_*
+.test-artifacts
+.model

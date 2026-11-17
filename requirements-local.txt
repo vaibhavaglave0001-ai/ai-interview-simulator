@@ -1,0 +1,3 @@
+-r requirements.txt
+# Optional original PyTorch backend for local development.
+sentence-transformers==3.4.1
